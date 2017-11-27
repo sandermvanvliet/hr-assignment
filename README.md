@@ -5,6 +5,13 @@ Your assignment is to build an application that can count words. Seems simple, i
 ## Acceptance criteria
 These are the acceptance criteria defined for the application, read them carefully!
 
+## Getting started
+1. First clone the repository: `git clone https://github.com/sandermvanvliet/hr-assignment.git`
+1. Enter the repository directory: `cd hr-assignment`
+1. Restore the necessary nuget packages: `dotnet restore`
+1. Build the solution: `dotnet build`
+1. Run the verification test: `dotnet test`
+
 ## 1: Count all occurrences of words in a scentence
 The application should return a list of words and the number of times that word is found in the scentence. 
 
