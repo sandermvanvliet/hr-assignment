@@ -5,7 +5,7 @@ Your assignment is to build an application that can count words. Seems simple, i
 ## Acceptance criteria
 These are the acceptance criteria defined for the application, read them carefully!
 
-## Count all occurrences of words in a scentence
+## 1: Count all occurrences of words in a scentence
 The application should return a list of words and the number of times that word is found in the scentence. 
 
 Given a scentence:
@@ -23,8 +23,8 @@ The output is:
 
 etc..
 
-## Give a list of most used words
+## 2: Give a list of most used words
 Building on the previous example, the application should return a list of words sorted decending on occurrence. In addition the list should only return the top-5 list of words.
 
-## Count occurrances of input word
+## 3: Count occurrances of input word
 The application should prompt for a word and then return how many times that word occurs in the given scentence. Think about how to handle unhappy scenarios as well.
