@@ -20,6 +20,7 @@ The output is:
 | This| 1 |
 | sample | 1 |
 | the | 2 |
+
 etc..
 
 ## Give a list of most used words
