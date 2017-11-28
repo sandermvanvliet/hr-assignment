@@ -12,6 +12,15 @@ These are the acceptance criteria defined for the application, read them careful
 1. Build the solution: `dotnet build`
 1. Run the verification test: `dotnet test`
 
+## Handy links
+[12 guidelines for writing better tests](https://t.co/kBVGWZDqlm)
+
+[Builder pattern](http://www.natpryce.com/articles/000714.html)
+
+[FluentAssertions](http://fluentassertions.com/) Use this library to write better readable assertions.
+
+[NCrunch](https://ncrunch.net) A continuous test runner (30 day trial)
+
 ## 1: Count all occurrences of words in a scentence
 The application should return a list of words and the number of times that word is found in the scentence. 
 
